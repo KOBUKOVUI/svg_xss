@@ -1,0 +1,6 @@
+GIF89a
+<?php
+ <script>  
+      alert(0x539);
+  </script>
+?>
